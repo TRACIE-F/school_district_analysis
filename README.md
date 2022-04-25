@@ -29,6 +29,7 @@ Original data is presented with yellow highlights. The data with the 9th graders
 
 **THS Comparison**
  * THS does not appear to lost its standing in the district, even without its 9th grade class, although Griffin High School did surpass a few categories and come much closer in others.
+
 *Old Data*
 ![top5old](https://github.com/TRACIE-F/school_district_analysis/blob/main/Resources/top5_olddata.png)
 *New Data*
@@ -51,6 +52,7 @@ Original data is presented with yellow highlights. The data with the 9th graders
 
 **Scores by School Spending**
  * Removing the 9th graders of THS had zero impact on the scores by school spending.
+
 *Old Data*
 ![spending old](https://github.com/TRACIE-F/school_district_analysis/blob/main/Resources/spending_summary_ogdata.png)
 *New Data*
@@ -58,6 +60,7 @@ Original data is presented with yellow highlights. The data with the 9th graders
 
 **Scores by School Size**
  * Removing the 9th graders of THS had zero impact on the scores by school size.
+
 *Old Data*
 ![size old](https://github.com/TRACIE-F/school_district_analysis/blob/main/Resources/size_summary_ogdata.png)
 *New Data*
@@ -66,6 +69,7 @@ Original data is presented with yellow highlights. The data with the 9th graders
 
 **Scores by School Type**
  * Scores per the type of school appear unaltered by the abesnce of the 9th graders of THS.
+
 *Old Data*
 ![type old](https://github.com/TRACIE-F/school_district_analysis/blob/main/Resources/type_summary_ogdata.png)
 *New Data*
