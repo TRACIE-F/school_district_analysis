@@ -4,7 +4,7 @@
 The following analysis digs into the PyCity Schools, focusing on student performance in math and reading and district spending. The analysis dives into the impact of removing the 9th graders of Thomas High School from the datat to determine the impact on the school's overall rank and performance.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
-Original data is presented with yellow highlights. The data with the 9th graders of Thomas High School dropped is presented with <font color="green"> green <\font> highlights.
+Original data is presented with !yellow highlights. The data with the 9th graders of Thomas High School dropped is presented with +green highlights.
 
   * District Summary
     *  In the District Summary, the changes appear small, with indications that the 9th grade class of Thomas High School (THS) is slightly above average. 
