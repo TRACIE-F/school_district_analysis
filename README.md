@@ -36,12 +36,14 @@ Original data is presented with yellow highlights. The data with the 9th graders
 
 **Math and Reading by Grade**
  * The breakdown of math and reading scores by grade validates all assumptions prior in the analysis. The 9th grade class at THS excels at math...
+
 *Old Data*
 ![math old](https://github.com/TRACIE-F/school_district_analysis/blob/main/Resources/readingscores_by_grade_olddata.png)
 *New Data*
 ![math new](https://github.com/TRACIE-F/school_district_analysis/blob/main/Resources/mathscores_by_grade_newdata.png)
 
  * ...and the 9th grade class at THS is the second lowest scoring class in reading.
+
 *Old Data*
 ![reading old](https://github.com/TRACIE-F/school_district_analysis/blob/main/Resources/readingscores_by_grade_olddata.png)
 *New Data*
