@@ -22,6 +22,7 @@ Original data is presented with yellow highlights. The data with the 9th graders
   * Average math and reading scores are relatively similar again, but average reading scores do go up slightly without the 9th graders of THS. 
   * The same trend from above continues for the passing percentages. Reading percentages go up without the 9th graders, but math percentages go down.
   * Overall passing percentages are higher with the 9th grade class included. 
+
 *Old Data*
 ![school_summary_old](https://github.com/TRACIE-F/school_district_analysis/blob/main/Resources/perschool_summary_ogdata.png)
 *New Data*
@@ -40,6 +41,7 @@ Original data is presented with yellow highlights. The data with the 9th graders
 
 *Old Data*
 ![math old](https://github.com/TRACIE-F/school_district_analysis/blob/main/Resources/readingscores_by_grade_olddata.png)
+
 *New Data*
 ![math new](https://github.com/TRACIE-F/school_district_analysis/blob/main/Resources/mathscores_by_grade_newdata.png)
 
