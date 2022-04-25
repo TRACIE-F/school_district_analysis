@@ -1,7 +1,7 @@
 # School District Analysis for PyCity Schools
 
 ## Overview of the school district analysis: Explain the purpose of this analysis.
-The following analysis digs into the PyCity Schools, focusing on student performance in math and reading and district spending. The analysis dives into the impact of removing the 9th graders of Thomas High School from the datat to determine the impact on the school's overall rank and performance.
+The following analysis digs into the PyCity Schools, focusing on student performance in math and reading and district spending. The analysis dives into the impact of removing the 9th graders of Thomas High School from the data to determine the impact on the school's overall rank and performance.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 Original data is presented with yellow highlights. The data with the 9th graders of Thomas High School dropped is presented with green highlights.
@@ -29,7 +29,7 @@ Original data is presented with yellow highlights. The data with the 9th graders
 ![school_summary_new](https://github.com/TRACIE-F/school_district_analysis/blob/main/Resources/perschool_summary_newdata.png)
 
 **THS Comparison**
- * THS does not appear to lost its standing in the district, even without its 9th grade class, although Griffin High School did surpass a few categories and come much closer in others.
+ * THS does not appear to lose its standing in the district, even without its 9th grade class, although Griffin High School did surpass a few categories and come much closer in others.
 
 *Old Data*
 ![top5old](https://github.com/TRACIE-F/school_district_analysis/blob/main/Resources/top5_olddata.png)
@@ -70,7 +70,7 @@ Original data is presented with yellow highlights. The data with the 9th graders
 
 
 **Scores by School Type**
- * Scores per the type of school appear unaltered by the abesnce of the 9th graders of THS.
+ * Scores per the type of school appear unaltered by the absence of the 9th graders of THS.
 
 *Old Data*
 ![type old](https://github.com/TRACIE-F/school_district_analysis/blob/main/Resources/type_summary_ogdata.png)
@@ -85,4 +85,4 @@ While the changes in the data did not seem major, the following changes made cle
   * THS reading scores went up without the 9th grade class 
  * Overall, THS freshmen are passing at a rate higher than their peers (See **Per School Summary**)
   * THS freshmen are passing at a high rate, overall 
- * The fremen at THS had scores high enough to make a positive impact in the district, especially in math and overall scoring (See **District Summary)
+ * The frehmen at THS had scores high enough to make a positive impact in the district, especially in math and overall scoring (See **District Summary)
